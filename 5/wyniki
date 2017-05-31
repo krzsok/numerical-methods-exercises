@@ -1,0 +1,121 @@
+1s -
+
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+0.9955379962921143
+mean logarithm:
+8.8288032204
+790
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+0.9991536140441895
+mean logarithm:
+7.93400344747
+790
+
+
+
+
+
+4 s   - 1120
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+3.9286580085754395
+mean logarithm:
+8.54269641676
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+4.036144256591797
+mean logarithm:
+8.69316849413
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+3.9712326526641846
+mean logarithm:
+8.46199662306
+
+
+16 s  - 1730
+
+
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+16.195514917373657
+mean logarithm:
+8.91284366772
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+15.910765171051025
+mean logarithm:
+9.15997849888
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+15.904202699661255
+mean logarithm:
+8.6220791043
+
+
+
+
+
+1m   -
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+59.648277044296265
+mean logarithm:
+9.69527633084
+2700
+
+
+
+
+
+
+4min   - 
+
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+216.47883319854736
+mean logarithm:
+9.85188082381
+4158
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+216.95545315742493
+mean logarithm:
+9.38572013421
+4180
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+218.02181601524353
+mean logarithm:
+9.7767840864
+4200
+
+runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+235.17094373703003
+mean logarithm:
+10.009770892
+4300
+
+
+
+16min
+
+In [55]: runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+914.6113700866699
+mean logarithm:
+10.4157964982
+6850
+
+In [56]: runfile('/home/dm/.config/spyder-py3/temp.py', wdir='/home/dm/anacondaws')
+950.6974024772644
+mean logarithm:
+11.0867514838
+6950
+
+
+srednie condition number 9,5
+ 
+
+
